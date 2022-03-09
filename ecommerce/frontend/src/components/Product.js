@@ -21,9 +21,9 @@ function Product( product ) {
                 </div>
             </Card.Text>
 
-            <Card.text as='h3'>
+            <Card.Text as='h3'>
                 ${[product.price]}
-            </Card.text>  
+            </Card.Text>  
         </Card.Body>
     </Card>
   )
